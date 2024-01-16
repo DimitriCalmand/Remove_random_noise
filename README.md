@@ -13,6 +13,15 @@ I aim not only to enhance our understanding of generative models
 but also to refine our skills in image processing and deep learning. 
 The codebase serves as a valuable resource for hands-on learning experiences.
 
+### Image Generated with Noise
+
+<img src="images/image_noise.png" alt="Image with Noise" width="140"/>
+
+### Image Generated without Noise
+
+<img src="images/image_denoise.png" alt="Image without Noise" width="140"/>
+
+
 ## Cycle-Consistency:
 
 CycleGAN introduces a crucial concept called cycle-consistency to enhance the translation process.
